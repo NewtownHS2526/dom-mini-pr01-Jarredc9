@@ -10,7 +10,7 @@ let brown_position = 1;
 // Query Selectors Here
 const blueButton = document.querySelector("#blue-button");
 const blueHorse = document.querySelector("#blue-horse");
-
+const blueHorse = document.querySelector("#blue-horse");
 
 
 // OnClick Functions Here
